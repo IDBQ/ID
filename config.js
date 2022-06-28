@@ -1,6 +1,6 @@
 global.prefix = '-'
-global.botName = 'oogway-DM'
-global.fake = botName + ' ➣ ©IDBQ'
+global.botName = 'oogwaybot-DM'
+global.fake = botName + 'oogwaybot'
 global.groupSupport = 'https://chat.whatsapp.com/FopVpOQGiO8EZPuFIjKs4p'
 global.groupError = '120363043224848613@g.us'
 
